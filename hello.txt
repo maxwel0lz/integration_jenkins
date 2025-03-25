@@ -1,1 +1,1 @@
-print('hello,world, novo teste automatico 2')
+print('hello,world')
